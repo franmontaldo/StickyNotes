@@ -309,7 +309,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Sticky Notes/Sticky_Notes.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 3Q7XKEDZ36;
+				DEVELOPMENT_TEAM = 2UBRYB2VPL;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "Sticky Notes/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -317,7 +317,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kenny.Sticky-Notes";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.franmontaldo.Sticky-Notes";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -329,7 +329,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Sticky Notes/Sticky_Notes.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 3Q7XKEDZ36;
+				DEVELOPMENT_TEAM = 2UBRYB2VPL;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "Sticky Notes/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -337,7 +337,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kenny.Sticky-Notes";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.franmontaldo.Sticky-Notes";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
